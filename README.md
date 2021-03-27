@@ -16,10 +16,10 @@ Grab the latest release of Python from [here](https://www.python.org/downloads/)
 **Note:** If the ``pip install pygame`` did not work for you, then try this:
 1. Windows:
 ``python -m pip install pygame``
-2. Mac: 
+2. macOS: 
 ``python3 -m pip install pygame``
 3. Linux:
-Same as windows.
+Same as macOS, depending on your distribution.
 
 Ensure ``main.py`` is in the same directory as ``./data`` and execute  ``python main.py``.
 
